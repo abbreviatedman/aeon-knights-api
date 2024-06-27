@@ -1,0 +1,9 @@
+* Queries
+?retryWrites=true&w=majority&appName=Cluster0
+#+BEGIN_SRC mongo :db aeon-knights :host "cluster0.8k8upnz.mongodb.net" :user abbreviatedman :password wasting-trousers-dreadlock1 :mongoexec mongosh
+  db.cards.findOne({Name: "Amethyst Shard"})
+#+END_SRC
+
+#+RESULTS:
+: Current Mongosh Log ID: 667dab33c415055304a79641
+: Connecting to:    mongodb://cluster0.8k8upnz.mongodb.net:27017/aeon-knights?directConnection=true

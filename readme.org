@@ -1,3 +1,86 @@
 * Aeon Knights API
 
-An Aeon's End/Astro Knights API and database.
+An API for retrieving and displaying component information for the board games in the Aeon's End and Astro Knights serieseses.
+
+** User Stories
+
+- As a user, I can get a random set of market cards according to the default marketplace settings.
+- As a user, I can get a random set of market cards according to customized marketplace settings.
+- As a user, I can search for a specific card and get more information on it.
+- As a user, I can search for a specific mage (or knight)/nemesis or boss/set/wave and get more information on it.
+- As a user, I can filter my card search by:
+  - family (AK vs. AE)
+  - set
+  - wave
+  - type (fuel/tech/weapon or nemesis/player)
+  - cost
+  - special effects (afterburn, swap, etc.)
+- As a user, I can sort my card results by:
+  - cost
+  - name
+  - set
+  - wave
+  - type
+- As a user, I can search for all mages.
+- As a user, I can search for all nemeses.
+
+** Technologies Used
+
+*** Back End
+
+- Node
+- Express
+- MongoDB
+
+*** Front End
+
+- HTMX
+
+** API Design
+
+Every request to the Aeon Knights API is a GET request.
+
+
+*** Endpoints
+
+=/cards=
+=/cards/:id=
+=/marketplace=
+=/boxes=
+=/boxes/:id=
+=/nemeses=
+=/nemeses/random=
+=/nemeses/:id=
+=/mages=
+=/mages/random=
+=/mages/:id=
+
+*** Models
+
+**** Card
+#+BEGIN_SRC javascript
+  const Card = {
+    _id: ObjectId("667da0278ad4189d69397862"),
+    name: "Amethyst Shard",
+    type: "Gem",
+    value: 0,
+    shield: 0,
+    boost: "",
+    overheat: "",
+    backLabel: "",
+    evolve: "",
+    storyMechanic: "",
+    modify: "",
+    effectText:
+      "Gain 1꒔. Any ally may draw a card and then discard a card in hand.",
+    flavorText:
+      "There is an irony to the weaponsmith that is best described as blunt.",
+    category: "Adelheim, Breach Mage Weaponsmith",
+    tier: 0,
+    box: "Aeon's End",
+    deck: "",
+    cardNum: "01",
+    box: "AE",
+    release: 1,
+  };
+  #+END_SRC

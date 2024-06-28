@@ -4,7 +4,7 @@ const fs = require("fs");
 const readJson = async () => {
   const cards = await csv().fromFile("./cards.csv");
   const json = JSON.stringify(
-    cards.map((card) => {
+    cards.slice(1).map((card) => {
       const newCard = {
         ...card,
         value: Number(card.value),
@@ -21,7 +21,9 @@ const readJson = async () => {
         "overheat",
         "backLabel",
         "evolve",
-        "story_mechanic",
+        "storyMechanic",
+        "flavorText",
+        "category",
         "modify",
         "tier",
         "deck",
@@ -38,7 +40,7 @@ const readJson = async () => {
     2
   );
 
-  fs.writeFile("./cards.json", JSON.stringify(json, null, 2), (err) => {
+  fs.writeFile("./cards.json", json, (err) => {
     if (err) {
       console.log(err);
 

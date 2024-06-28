@@ -1,4 +1,4 @@
-name,type,value,shield,boost,overheat,back label,evolve,story mechanic,modify,effect text,flavor text,category,tier,box,deck,card#,boxcode,cardcode,release order
+name,type,value,shield,boost,overheat,backLabel,evolve,storyMechanic,modify,effectText,flavorText,category,tier,box,deck,cardNum,boxCode,cardCode,release
 ,,,,,,,,,,,,,,,,,,,
 Amethyst Shard,Gem,0,,,,,,,,Gain 1꒔. Any ally may draw a card and then discard a card in hand.,There is an irony to the weaponsmith that is best described as blunt.,"Adelheim, Breach Mage Weaponsmith",,Aeon's End,,01,AE-,AE-01,1
 Buried Light,Spell,0,,,,,,,,Cast: Deal 1 damage. Gain 1꒔.,"Hers is a fire that burns bright and with a single purpose: to deliver us back to The World That Was, no matter what cost.","Brama, Breach Mage Elder",,Aeon's End,,02,AE-,AE-02,1
@@ -1061,15 +1061,20 @@ Jagged Lightning,Spell,4,,,,,,,,"Cast: Deal 3 damage. You may discard a card in 
 Jagged Lightning,Spell,4,,,,,,,,"Cast: Deal 3 damage. You may discard a card in hand. If you do, any player focuses their closed breach with the lowest focus cost.","Let us hope it hurts. - Sparrow, Breach Mage Soldier",,,War Eternal,,177,W-,W-177,5
 Jagged Lightning,Spell,4,,,,,,,,"Cast: Deal 3 damage. You may discard a card in hand. If you do, any player focuses their closed breach with the lowest focus cost.","Let us hope it hurts. - Sparrow, Breach Mage Soldier",,,War Eternal,,178,W-,W-178,5
 Jagged Lightning,Spell,4,,,,,,,,"Cast: Deal 3 damage. You may discard a card in hand. If you do, any player focuses their closed breach with the lowest focus cost.","Let us hope it hurts. - Sparrow, Breach Mage Soldier",,,War Eternal,,179,W-,W-179,5
-Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.(You cannot use this effect while there is a Spark prepped in this breach.)
+Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.
+(You cannot use this effect while there is a Spark prepped in this breach.)
 Cast: Deal 3 damage.","Let them burn along with us. - Garu, Oathsworn Protector",,,War Eternal,,180,W-,W-180,5
-Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.(You cannot use this effect while there is a Spark prepped in this breach.)
+Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.
+(You cannot use this effect while there is a Spark prepped in this breach.)
 Cast: Deal 3 damage.","Let them burn along with us. - Garu, Oathsworn Protector",,,War Eternal,,181,W-,W-181,5
-Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.(You cannot use this effect while there is a Spark prepped in this breach.)
+Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.
+(You cannot use this effect while there is a Spark prepped in this breach.)
 Cast: Deal 3 damage.","Let them burn along with us. - Garu, Oathsworn Protector",,,War Eternal,,182,W-,W-182,5
-Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.(You cannot use this effect while there is a Spark prepped in this breach.)
+Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.
+(You cannot use this effect while there is a Spark prepped in this breach.)
 Cast: Deal 3 damage.","Let them burn along with us. - Garu, Oathsworn Protector",,,War Eternal,,183,W-,W-183,5
-Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.(You cannot use this effect while there is a Spark prepped in this breach.)
+Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.
+(You cannot use this effect while there is a Spark prepped in this breach.)
 Cast: Deal 3 damage.","Let them burn along with us. - Garu, Oathsworn Protector",,,War Eternal,,184,W-,W-184,5
 Nova Forge,Spell,6,,,,,,,,"While prepped, once per turn during your main phase, you may gain 2꒔ that can only be used to gain a spell.
 Cast: Deal 4 damage.","As I have said before, the breach is my anvil, Adelheim. - Gex, Breach Mage Advisor",,,War Eternal,,185,W-,W-185,5
@@ -1390,7 +1395,8 @@ Equilibrium,Spell,7,,,,,,,,"While prepped, when you suffer damage, reduce that d
 Cast: Deal 4 damage.",,Randomizer,,War Eternal (Randomizers),,20,R,R20,6
 Fiery Torrent,Spell,5,,,,,,,,Cast: Deal 2 damage. Deal 2 additional damage for each other Fiery Torrent prepped by any player.,,Randomizer,,War Eternal (Randomizers),,21,R,R21,6
 Jagged Lightning,Spell,4,,,,,,,,"Cast: Deal 3 damage. You may discard a card in hand. If you do, any player focuses their closed breach with the lowest focus cost.",,Randomizer,,War Eternal (Randomizers),,22,R,R22,6
-Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.(You cannot use this effect while there is a Spark prepped in this breach.)
+Kindle,Spell,4,,,,,,,,"While prepped, during your main phase, you may also prep one Spark to the breach this spell is prepped to.
+(You cannot use this effect while there is a Spark prepped in this breach.)
 Cast: Deal 3 damage.",,Randomizer,,War Eternal (Randomizers),,23,R,R23,6
 Nova Forge,Spell,6,,,,,,,,"While prepped, once per turn during your main phase, you may gain 2꒔ that can only be used to gain a spell.
 Cast: Deal 4 damage.",,Randomizer,,War Eternal (Randomizers),,24,R,R24,6
@@ -1428,7 +1434,8 @@ Reveal the top three cards of your deck. You may prep one of the revealed spells
 Resonate,Spell,6,,,,,,,,"Cast: Deal 4 damage. If there are six or more other cards in your discard pile, deal 3 additional damage.",,Randomizer,,War Eternal (Randomizers),,42,R,R42,6
 Conflagration,Spell,3,,,,,,,,"Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 2 damage. Gain 1꒔.",,Randomizer,,War Eternal (Randomizers),,43,R,R43,6
-Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.Link (Two spells with Link may be prepped to the same breach.)
+Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.
+Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 3 damage.",,Randomizer,,War Eternal (Randomizers),,44,R,R44,6
 Inner Fire,Spell,2,,,,,,,,"Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 1 damage. If the nemesis tier is 2 or higher, deal 1 additional damage.",,Randomizer,,War Eternal (Randomizers),,45,R,R45,6
@@ -1498,15 +1505,20 @@ Conflagration,Spell,3,,,,,,,,"Link (Two spells with Link may be prepped to the s
 Cast: Deal 2 damage. Gain 1꒔.","Burn away their wickedness and there is little else left. - Quilius, Breach Mage Assassin",,,The Void,,28,V-,V-28,7
 Conflagration,Spell,3,,,,,,,,"Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 2 damage. Gain 1꒔.","Burn away their wickedness and there is little else left. - Quilius, Breach Mage Assassin",,,The Void,,29,V-,V-29,7
-Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.Link (Two spells with Link may be prepped to the same breach.)
+Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.
+Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 3 damage.",,,,The Void,,30,V-,V-30,7
-Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.Link (Two spells with Link may be prepped to the same breach.)
+Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.
+Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 3 damage.",,,,The Void,,31,V-,V-31,7
-Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.Link (Two spells with Link may be prepped to the same breach.)
+Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.
+Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 3 damage.",,,,The Void,,32,V-,V-32,7
-Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.Link (Two spells with Link may be prepped to the same breach.)
+Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.
+Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 3 damage.",,,,The Void,,33,V-,V-33,7
-Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.Link (Two spells with Link may be prepped to the same breach.)
+Fulminate,Spell,5,,,,,,,,"While prepped, other spells you cast deal 1 additional damage.
+Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 3 damage.",,,,The Void,,34,V-,V-34,7
 Inner Fire,Spell,2,,,,,,,,"Link (Two spells with Link may be prepped to the same breach.)
 Cast: Deal 1 damage. If the nemesis tier is 2 or higher, deal 1 additional damage.","Those of us that came here, we will never be rid of the void. It is a part of us now and forever. - Garu, Oathsworn Protector",,,The Void,,35,V-,V-35,7
@@ -1748,14 +1760,17 @@ Do not read any more cards in this deck until instructed to do so.",,,,Legacy,E,
 Ravenous Leviathan,Minion,7,,,,,4,x,x,"Persistent: Gravehold suffers 2 damage. Evolve.
 If you can't plave an evolve sticker, read card E32.",,Basic,1,Legacy,E,19,,E19,10
 Caustic Larva Story,Event,,,,,,,x,,"The larvae have burroed deep underground, infecting your camp from below. In the protected darkness, they forget a toxic coccon for themselves, contaminating the air, spreading its sickness to New Gravehold.
-Banish Caustic Larva. Place card E21 into play with the same number of life tokens on it that Caustic Larva had before transforming. Do not resolve this minion's Persistent effect this turn.Do not read any more cards in this deck until instructed to do so.",,,,Legacy,E,20,,E20,10
+Banish Caustic Larva. Place card E21 into play with the same number of life tokens on it that Caustic Larva had before transforming. Do not resolve this minion's Persistent effect this turn.
+Do not read any more cards in this deck until instructed to do so.",,,,Legacy,E,20,,E20,10
 Caustic Cocoon,Minion,11,,,,,4,x,x,"Persistent: Unleash. Gravehold suffers 1 damage. Evolve.
 If you can't place an evolve sticker, read card E40.",,Basic,2,Legacy,E,21,,E21,10
 Sap Story,Event,,,,,,,x,,"Unsatiated, the Nameless has been searching for additional power. Finally, it has found the strength it needs in the nearby breach. Satisfied, it hunts you with renewed vigor.
-Banish Sap. Place card E23 in the nemesis discard pile.Do not read any more cards in this deck until instructed to do so.",,,,Legacy,E,22,,E22,10
+Banish Sap. Place card E23 in the nemesis discard pile.
+Do not read any more cards in this deck until instructed to do so.",,,,Legacy,E,22,,E22,10
 Reap,Attack,,,,,,,,,Unleash twice. The player with the most charges loses 3 charges or suffers 3 damage.,,Basic,2,Legacy,E,23,,E23,10
 Gathering Storm Story,Event,,,,,,,x,,"The skies darken as the circle closes -- the minions of the Nameless have completed their rituatl. They channel immense power, enough to decimate a mage, yet their goal is something far more sinister.
-Banish Gathering Storm. Place card E25 in the nemesis discard pile.Do not read any more cards in this deck until instructed to do so.",,,,Legacy,E,24,,E24,10
+Banish Gathering Storm. Place card E25 in the nemesis discard pile.
+Do not read any more cards in this deck until instructed to do so.",,,,Legacy,E,24,,E24,10
 Thunderous Tempest,Power,2,,,,,,,,"To Discard: Spend 9꒔.
 Power 2: Unleash. If there are two nemesis turn order cards in the turn order discard pile, any player suffers 8 damage. Otherwise, any player suffers 5 damage.",,Basic,3,Legacy,E,25,,E25,10
 Facet Ogre Story,Event,,,,,,,x,,"The Ogre becomes enraged in the face of your assault, brushing off your attacks as its madness boils over. The Ogre knows it is wounded and, as a last act, will destroy the very ground upon which you stand.
@@ -4119,13 +4134,16 @@ Use this card only when playing with Mazra.",You could learn something from me. 
 Mazra's Wisdom,Spell,3,,,,,,,,"Cast: Deal 2 damage. Any ally draws a card.
 Use this card only when playing with Mazra.",You could learn something from me. - Mazra,"Mazra, The Reader",,The Ancients,,004,TA-,TA-004,15
 Mazra's Arc,Spell,3,,,,,,,,Cast: Deal 3 damage. Focus your closed breach with the lowest focus cost.,The ancients knew two things well. Lightning is one of them. - Mazra,"Mazra, The Reader",,The Ancients,,005,TA-,TA-005,15
-Mazra's Arc,Spell,3,,,,,,,,"Cast: Deal 3 damage. Focus your closed breach with the lowest focus cost.Use this card only when playing with Mazra.",The ancients knew two things well. Lightning is one of them. - Mazra,"Mazra, The Reader",,The Ancients,,006,TA-,TA-006,15
+Mazra's Arc,Spell,3,,,,,,,,"Cast: Deal 3 damage. Focus your closed breach with the lowest focus cost.
+Use this card only when playing with Mazra.",The ancients knew two things well. Lightning is one of them. - Mazra,"Mazra, The Reader",,The Ancients,,006,TA-,TA-006,15
 Mazra's Inferno,Spell,6,,,,,,,,"Cast: Deal 6 damage.
 OR
-Cast: Deal 4 damage. Destroy a card in hand.Use this card only when playing with Mazra.",And fire is the other. Stay down. - Mazra,"Mazra, The Reader",,The Ancients,,007,TA-,TA-007,15
+Cast: Deal 4 damage. Destroy a card in hand.
+Use this card only when playing with Mazra.",And fire is the other. Stay down. - Mazra,"Mazra, The Reader",,The Ancients,,007,TA-,TA-007,15
 Mazra's Inferno,Spell,6,,,,,,,,"Cast: Deal 6 damage.
 OR
-Cast: Deal 4 damage. Destroy a card in hand.Use this card only when playing with Mazra.",And fire is the other. Stay down. - Mazra,"Mazra, The Reader",,The Ancients,,008,TA-,TA-008,15
+Cast: Deal 4 damage. Destroy a card in hand.
+Use this card only when playing with Mazra.",And fire is the other. Stay down. - Mazra,"Mazra, The Reader",,The Ancients,,008,TA-,TA-008,15
 Mazra's Gift,Spell,6,,,,,,,,"Cast: Deal 4 damage. Any ally gains 1 charge.
 OR
 Cast: Deal 4 damage. Any ally gains 1 life.
@@ -7620,7 +7638,8 @@ OR
 Cast: Focus your Ⅲ breach.
 Use this card only when playing Mazra.","Take care of that for me, would you? - Mazra","Mazra, The Learned",,Legacy of Gravehold,MS,05,L2-,L2-MS-05,24
 Mazra's Arc,Spell,3,,,,,,,,"Cast: Deal 3 damage.
-Focus your closed breach with the lowest focus cost.Use this card only when playing Mazra.",The ancients knew two things well. Lightning is one of them. - Mazra,"Mazra, The Learned",,Legacy of Gravehold,MS,06,L2-,L2-MS-06,24
+Focus your closed breach with the lowest focus cost.
+Use this card only when playing Mazra.",The ancients knew two things well. Lightning is one of them. - Mazra,"Mazra, The Learned",,Legacy of Gravehold,MS,06,L2-,L2-MS-06,24
 Mazra's Arc,Spell,3,,,,,,,,"Cast: Deal 3 damage.
 Focus your closed breach with the lowest focus cost.
 Use this card only when playing Mazra.",The ancients knew two things well. Lightning is one of them. - Mazra,"Mazra, The Learned",,Legacy of Gravehold,MS,07,L2-,L2-MS-07,24
@@ -7632,7 +7651,8 @@ Silence a minion.
 Use this card only when playing Mazra.","I've learned a few new tricks, and now I can teach them to you. - Mazra","Mazra, The Learned",,Legacy of Gravehold,MS,09,L2-,L2-MS-09,24
 Mazra's Wisdom,Spell,3,,,,,,,,"Cast: Deal 2 damage. Any ally draws a card.
 Use this card only when playing Mazra.",You could learn something from me. - Mazra,"Mazra, The Learned",,Legacy of Gravehold,MS,10,L2-,L2-MS-10,24
-Mazra's Wisdom,Spell,3,,,,,,,,"Cast: Deal 2 damage. Any ally draws a card.Use this card only when playing Mazra.",You could learn something from me. - Mazra,"Mazra, The Learned",,Legacy of Gravehold,MS,11,L2-,L2-MS-11,24
+Mazra's Wisdom,Spell,3,,,,,,,,"Cast: Deal 2 damage. Any ally draws a card.
+Use this card only when playing Mazra.",You could learn something from me. - Mazra,"Mazra, The Learned",,Legacy of Gravehold,MS,11,L2-,L2-MS-11,24
 Mazra's Chain,Spell,6,,,,,,,,"Cast: Deal 5 damage divided however you choose to the nemesis and any number of minions.
 OR
 Cast: Deal 1 damage. You may cast any ally's prepped spell without discarding it.
@@ -7901,7 +7921,8 @@ You may destroy a card in hand.
 Use this card only when playing Razra.",Help me focus. I need to clear my thoughts. - Razra,"Razra, The Tamer",,Legacy of Gravehold,TR,05,L2-,L2-TR-05,24
 "Rip, Go!",Relic,3,,,,,,,,"Focus any ally's breach. That ally gains 1 charge.
 Use this card only when playing Razra.",That mage needs our help. C'mon! - Razra,"Razra, The Tamer",,Legacy of Gravehold,TR,06,L2-,L2-TR-06,24
-"Rip, Go!",Relic,3,,,,,,,,"Focus any ally's breach. That ally gains 1 charge.Use this card only when playing Razra.",That mage needs our help. C'mon! - Razra,"Razra, The Tamer",,Legacy of Gravehold,TR,07,L2-,L2-TR-07,24
+"Rip, Go!",Relic,3,,,,,,,,"Focus any ally's breach. That ally gains 1 charge.
+Use this card only when playing Razra.",That mage needs our help. C'mon! - Razra,"Razra, The Tamer",,Legacy of Gravehold,TR,07,L2-,L2-TR-07,24
 "Rip, Protect!",Relic,6,,,,,,,,"Any ally draws two cards.
 Silence a minion.
 Use this card only when playing Razra.",Who's a good boy? - Razra,"Razra, The Tamer",,Legacy of Gravehold,TR,08,L2-,L2-TR-08,24
@@ -7910,7 +7931,8 @@ Silence a minion.
 Use this card only when playing Razra.",Who's a good boy? - Razra,"Razra, The Tamer",,Legacy of Gravehold,TR,09,L2-,L2-TR-09,24
 "Rip, Scout!",Relic,3,,,,,,,,"Gain a card that costs 4꒔ or less from the supply and place it on top of your deck.
 Use this card only when playing Razra.","Is it a bird? A plant? Oh no, it's just another rock. Thank you, Rip, I love it. - Razra","Razra, The Tamer",,Legacy of Gravehold,TR,10,L2-,L2-TR-10,24
-"Rip, Scout!",Relic,3,,,,,,,,"Gain a card that costs 4꒔ or less from the supply and place it on top of your deck.Use this card only when playing Razra.","Is it a bird? A plant? Oh no, it's just another rock. Thank you, Rip, I love it. - Razra","Razra, The Tamer",,Legacy of Gravehold,TR,11,L2-,L2-TR-11,24
+"Rip, Scout!",Relic,3,,,,,,,,"Gain a card that costs 4꒔ or less from the supply and place it on top of your deck.
+Use this card only when playing Razra.","Is it a bird? A plant? Oh no, it's just another rock. Thank you, Rip, I love it. - Razra","Razra, The Tamer",,Legacy of Gravehold,TR,11,L2-,L2-TR-11,24
 "Rip, Attack!",Relic,6,,,,,,,,"Any ally may prep a spell in hand.
 Cast up to two spells prepped by any player. Spells cast this way deal 1 additional damage.
 Use this card only when playing Razra.",Don't hold back now! - Razra,"Razra, The Tamer",,Legacy of Gravehold,TR,12,L2-,L2-TR-12,24
@@ -7944,7 +7966,8 @@ Essence Leech,Spell,0,,,,,,,,"While prepped, when an ally gains a charge the fir
 Cast: Deal 1 damage.
 Use this card only when playing with Xaxos: Reckoner.",Kel and Ilya have expanded my previously limited understanding of the passage of aether from one mage to another. - Xaxos,"Xaxos, Reckoner",,Legacy of Gravehold,XA,05,L2-,L2-XA-05,24
 Dead Reckoning,Spell,8,,,,,,,,"Echo
-Cast: Deal 4 damage.Use this card only when playing with Xaxos: Reckoner.","When I was banished into the Void, it was as though the man I was died and a new Xaxos was forged in that grisly world. - Xaxos","Xaxos, Reckoner",,Legacy of Gravehold,XA,06,L2-,L2-XA-06,24
+Cast: Deal 4 damage.
+Use this card only when playing with Xaxos: Reckoner.","When I was banished into the Void, it was as though the man I was died and a new Xaxos was forged in that grisly world. - Xaxos","Xaxos, Reckoner",,Legacy of Gravehold,XA,06,L2-,L2-XA-06,24
 Elemental Reckoning,Spell,8,,,,,,,,"Cast: Deal 3 damage.
 Any player or Gravehold gains 3 life.
 Use this card only when playing with Xaxos: Reckoner.","Everything I have ever learned shall be brought to bear in this, the most important fight of my life. - Xaxos","Xaxos, Reckoner",,Legacy of Gravehold,XA,07,L2-,L2-XA-07,24
@@ -7955,7 +7978,8 @@ OR
 Cast: Deal 10 damage to the nemesis.
 Use this card only when playing with Xaxos: Reckoner.",The time for hesitation has passed. - Xaxos,"Xaxos, Reckoner",,Legacy of Gravehold,XA,09,L2-,L2-XA-09,24
 Final Reckoning,Spell,8,,,,,,,,"Cast: Deal 4 damage.
-Reveal the top three cards of your deck. You may destroy any of those cards.Use this card only when playing with Xaxos: Reckoner.",This is the culmination of my fate. - Xaxos,"Xaxos, Reckoner",,Legacy of Gravehold,XA,10,L2-,L2-XA-10,24
+Reveal the top three cards of your deck. You may destroy any of those cards.
+Use this card only when playing with Xaxos: Reckoner.",This is the culmination of my fate. - Xaxos,"Xaxos, Reckoner",,Legacy of Gravehold,XA,10,L2-,L2-XA-10,24
 Nocturnal Reckoning,Spell,8,,,,,,,,"Cast: Allies collectively gain 4 charges. Reveal the turn order deck. Return it in any order.
 OR
 Cast: Deal 8 damage.

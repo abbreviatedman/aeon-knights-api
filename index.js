@@ -15,19 +15,7 @@ const readJson = async () => {
         delete newCard[key];
       }
 
-      for (const key of [
-        "shield",
-        "boost",
-        "overheat",
-        "backLabel",
-        "evolve",
-        "storyMechanic",
-        "flavorText",
-        "category",
-        "modify",
-        "tier",
-        "deck",
-      ]) {
+      for (const key of Object.keys(card)) {
         if (newCard[key] === "") {
           delete newCard[key];
         }

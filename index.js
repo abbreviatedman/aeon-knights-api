@@ -23,6 +23,8 @@ const readJson = async () => {
     return newCard;
   });
 
+  console.log(new Set(cleanedCards.map((card) => card.type)))
+
   const noDupes = cleanedCards.filter(
     (card, i) =>
       i === cleanedCards.length - 1 ||

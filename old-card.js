@@ -1,0 +1,25 @@
+const oldCard = {
+  _id: ObjectId("667da0278ad4189d69397862"),
+  Name: "Amethyst Shard",
+  Type: "Gem",
+  Value: "0",
+  Shield: "",
+  Boost: "",
+  Overheat: "",
+  "Back Label": "",
+  Evolve: "",
+  "Story Mechanic": "",
+  Modify: "",
+  "Effect Text":
+    "Gain 1꒔. Any ally may draw a card and then discard a card in hand.",
+  "Flavor text":
+    "There is an irony to the weaponsmith that is best described as blunt.",
+  Category: "Adelheim, Breach Mage Weaponsmith",
+  Tier: "",
+  Box: "Aeon's End",
+  Deck: "",
+  "Card#": "01",
+  Boxcode: "AE-",
+  Cardcode: "AE-01",
+  "Release Order": "1",
+};
